@@ -1,0 +1,29 @@
+ds chức năng
+- đăng kí
+- đăng nhập
+- đăng xuất
+- Đổi chủ đề giao diện
+- Danh sách phát
+- tìm kiếm bài nhạc bằng tên bài hát, tên ca sĩ, tên album
+- tìm kiếm bài nhạc bằng thể loại
+- dowload nhạc
+- xem số lượt nghe của bài hát
+- xem số lược yêu thích của bài hát
+- nghe nhạc
+- chức năng phát nhạc nhẫu nhiên
+- chức năng phát nhạc lặp lại
+- chức năng chỉnh lâm lượng
+- xem mv
+- xem lời bài hát
+- toptrendings
+- top100
+- nhạc mới
+- xem thông tin ca sĩ
+- xem danh sách nhạc theo ca sĩ
+- xem thông tin album
+- thêm bài hát vào danh sách yêu thích
+- responsive cho điện thoại
+- responsive cho máy tính bảng
+- responsive cho máy tính
+- nghe radio online
+- liệt kê danh sách podcast
